@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import Moviebar from './component/Moviebar';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Generator from './component/Generator';
+import Moviebar from './component/Moviebar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Moviebar/>
+    <Generator/>
   </React.StrictMode>
 );
 
