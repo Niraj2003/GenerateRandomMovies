@@ -17,7 +17,7 @@ function Generator() {
         <h1 className="moviename">
             {movie} : {year}
         </h1>
-        <Button variant="dark" onClick={() => ( (setMovie(myfun().title)), (setYear(myfun().year))) } >Generate Movie</Button>
+        <Button className="butt" variant="dark" onClick={() => ( (setMovie(myfun().title)), (setYear(myfun().year))) } >Generate Movie</Button>
     </center>
       
     </>

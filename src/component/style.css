@@ -1,4 +1,15 @@
 .moviename{
     margin-top: 200px;
-    margin-bottom: 50px ;
+    margin-bottom: 30px ;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+.butt{
+    margin-bottom: 400px;
+    background-color: rgb(102, 0, 51);
+    color: rgb(255, 255, 255);
+    font-size: 130%;
+}
+.nvb{
+    background-color: rgb(255, 255, 153);
 }

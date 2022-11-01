@@ -11,8 +11,13 @@ import Moviebar from './component/Moviebar';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Moviebar/>
-    <Generator/>
+    <body style={{
+        backgroundColor: 'rgb(255, 255, 153)'
+      }}>
+      <Moviebar/>
+      <Generator/>
+    </body>
+    
   </React.StrictMode>
 );
 

@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 function Moviebar() {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar expand="lg" className='nvb'>
       <Container>
         <Navbar.Brand href="/">Movie Generator</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
