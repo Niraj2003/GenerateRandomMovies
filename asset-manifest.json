@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GenerateRandomMovies/static/css/main.91689527.css",
-    "main.js": "/GenerateRandomMovies/static/js/main.352123c1.js",
+    "main.js": "/GenerateRandomMovies/static/js/main.baf9fece.js",
     "static/js/787.28cb0dcd.chunk.js": "/GenerateRandomMovies/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/GenerateRandomMovies/index.html",
     "main.91689527.css.map": "/GenerateRandomMovies/static/css/main.91689527.css.map",
-    "main.352123c1.js.map": "/GenerateRandomMovies/static/js/main.352123c1.js.map",
+    "main.baf9fece.js.map": "/GenerateRandomMovies/static/js/main.baf9fece.js.map",
     "787.28cb0dcd.chunk.js.map": "/GenerateRandomMovies/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91689527.css",
-    "static/js/main.352123c1.js"
+    "static/js/main.baf9fece.js"
   ]
 }
