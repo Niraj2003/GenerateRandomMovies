@@ -1,19 +1,19 @@
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
+// import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
 function Moviebar() {
   return (
     <Navbar expand="lg" className='nvb'>
       <Container>
-        <Navbar.Brand href="/">Movie Generator</Navbar.Brand>
+        <Navbar.Brand href="https://niraj2003.github.io/GenerateRandomMovies/">Movie Generator</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
+        {/* <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/">About</Nav.Link>
           </Nav>
-        </Navbar.Collapse>
+        </Navbar.Collapse> */}
       </Container>
     </Navbar>
   );
